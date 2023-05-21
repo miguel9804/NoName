@@ -9,6 +9,12 @@ public class IKSnapper : MonoBehaviour
     [SerializeField] private MultiParentConstraint[] animatedBones;
     [SerializeField] private MultiParentConstraint[] proceduralBones;
 
+    [SerializeField] private AnimationCurve activationAnimation;
+    [SerializeField] private AnimationCurve deactivationAnimation;
+
+    private bool currentOverride;
+
+
     private void UpdateInfluence(float weight)
     {
         if (animatedBones == null) return;
@@ -26,8 +32,26 @@ public class IKSnapper : MonoBehaviour
         }
     }
 
-    private void OnValidate()
+    public void OverrideIK(bool state)
     {
-        UpdateInfluence(proceduralInfluence);
+        if(state != currentOverride)
+        {
+            currentOverride = state;
+            StartCoroutine(AnimateInfluence());
+        }
+
     }
+    
+    IEnumerator AnimateInfluence()
+    {
+        AnimationCurve curve = currentOverride ? activationAnimation : deactivationAnimation;
+
+        for(float time=0; time<1; time += Time.deltaTime)
+        {
+            proceduralInfluence = curve.Evaluate(time);
+            UpdateInfluence(proceduralInfluence);
+            yield return null;
+        }
+    }
+
 }

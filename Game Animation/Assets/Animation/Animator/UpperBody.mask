@@ -1,0 +1,635 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UpperBody
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/DEF-Bicep.L
+    m_Weight: 1
+  - m_Path: Armature/DEF-Bicep.L/DEF-Bicep.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Bicep.L.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Bicep.L.001/DEF-Bicep.L.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Bicep.R
+    m_Weight: 1
+  - m_Path: Armature/DEF-Bicep.R/DEF-Bicep.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Bicep.R.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Bicep.R.001/DEF-Bicep.R.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Bridge
+    m_Weight: 1
+  - m_Path: Armature/DEF-Bridge/DEF-Bridge_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.L
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.L/DEF-Brow.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.L.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.L.001/DEF-Brow.L.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.L.002
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.L.002/DEF-Brow.L.002_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.L.003
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.L.003/DEF-Brow.L.003_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.L.004
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.L.004/DEF-Brow.L.004_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.L.005
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.L.005/DEF-Brow.L.005_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.L.006
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.L.006/DEF-Brow.L.006_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.R
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.R/DEF-Brow.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.R.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.R.001/DEF-Brow.R.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.R.002
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.R.002/DEF-Brow.R.002_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.R.003
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.R.003/DEF-Brow.R.003_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.R.004
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.R.004/DEF-Brow.R.004_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.R.005
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.R.005/DEF-Brow.R.005_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.R.006
+    m_Weight: 1
+  - m_Path: Armature/DEF-Brow.R.006/DEF-Brow.R.006_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Cheek.L
+    m_Weight: 1
+  - m_Path: Armature/DEF-Cheek.L/DEF-Cheek.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Cheek.L.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Cheek.L.001/DEF-Cheek.L.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Cheek.L.002
+    m_Weight: 1
+  - m_Path: Armature/DEF-Cheek.L.002/DEF-Cheek.L.002_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Cheek.R
+    m_Weight: 1
+  - m_Path: Armature/DEF-Cheek.R/DEF-Cheek.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Cheek.R.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Cheek.R.001/DEF-Cheek.R.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Cheek.R.002
+    m_Weight: 1
+  - m_Path: Armature/DEF-Cheek.R.002/DEF-Cheek.R.002_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Chest
+    m_Weight: 1
+  - m_Path: Armature/DEF-Chest/DEF-Chest_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Crown
+    m_Weight: 1
+  - m_Path: Armature/DEF-Crown/DEF-Crown_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Ear.L
+    m_Weight: 1
+  - m_Path: Armature/DEF-Ear.L/DEF-Ear.L.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Ear.L/DEF-Ear.L.001/DEF-Ear.L.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Ear.R
+    m_Weight: 1
+  - m_Path: Armature/DEF-Ear.R/DEF-Ear.R.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Ear.R/DEF-Ear.R.001/DEF-Ear.R.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyeball.L
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyeball.L/DEF-Eyeball.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyeball.R
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyeball.R/DEF-Eyeball.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.L
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.L/DEF-Eyelid.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.L.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.L.001/DEF-Eyelid.L.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.L.002
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.L.002/DEF-Eyelid.L.002_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.L.003
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.L.003/DEF-Eyelid.L.003_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.L.004
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.L.004/DEF-Eyelid.L.004_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.L.005
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.L.005/DEF-Eyelid.L.005_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.L.006
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.L.006/DEF-Eyelid.L.006_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.L.007
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.L.007/DEF-Eyelid.L.007_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.R
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.R/DEF-Eyelid.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.R.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.R.001/DEF-Eyelid.R.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.R.002
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.R.002/DEF-Eyelid.R.002_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.R.003
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.R.003/DEF-Eyelid.R.003_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.R.004
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.R.004/DEF-Eyelid.R.004_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.R.005
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.R.005/DEF-Eyelid.R.005_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.R.006
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.R.006/DEF-Eyelid.R.006_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.R.007
+    m_Weight: 1
+  - m_Path: Armature/DEF-Eyelid.R.007/DEF-Eyelid.R.007_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Foot.L
+    m_Weight: 0
+  - m_Path: Armature/DEF-Foot.L/DEF-Foot.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Foot.R
+    m_Weight: 0
+  - m_Path: Armature/DEF-Foot.R/DEF-Foot.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Forearm.L
+    m_Weight: 1
+  - m_Path: Armature/DEF-Forearm.L/DEF-Forearm.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Forearm.L.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Forearm.L.001/DEF-Forearm.L.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Forearm.R
+    m_Weight: 1
+  - m_Path: Armature/DEF-Forearm.R/DEF-Forearm.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Forearm.R.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Forearm.R.001/DEF-Forearm.R.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Hand.L
+    m_Weight: 1
+  - m_Path: Armature/DEF-Hand.L/DEF-Hand.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Hand.R
+    m_Weight: 1
+  - m_Path: Armature/DEF-Hand.R/DEF-Hand.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Head
+    m_Weight: 1
+  - m_Path: Armature/DEF-Head/DEF-Head_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Hip
+    m_Weight: 0
+  - m_Path: Armature/DEF-Hip/DEF-Hip_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Index.L
+    m_Weight: 1
+  - m_Path: Armature/DEF-Index.L/DEF-Index.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Index.L.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Index.L.001/DEF-Index.L.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Index.L.002
+    m_Weight: 1
+  - m_Path: Armature/DEF-Index.L.002/DEF-Index.L.002_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Index.R
+    m_Weight: 1
+  - m_Path: Armature/DEF-Index.R/DEF-Index.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Index.R.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Index.R.001/DEF-Index.R.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Index.R.002
+    m_Weight: 1
+  - m_Path: Armature/DEF-Index.R.002/DEF-Index.R.002_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Jaw
+    m_Weight: 1
+  - m_Path: Armature/DEF-Jaw/DEF-Jaw_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Bot
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Bot/DEF-Lip-Bot_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Bot.L
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Bot.L/DEF-Lip-Bot.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Bot.L.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Bot.L.001/DEF-Lip-Bot.L.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Bot.R
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Bot.R/DEF-Lip-Bot.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Bot.R.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Bot.R.001/DEF-Lip-Bot.R.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Mid.L
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Mid.L/DEF-Lip-Mid.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Mid.R
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Mid.R/DEF-Lip-Mid.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Top
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Top/DEF-Lip-Top_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Top.L
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Top.L/DEF-Lip-Top.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Top.L.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Top.L.001/DEF-Lip-Top.L.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Top.R
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Top.R/DEF-Lip-Top.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Top.R.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Lip-Top.R.001/DEF-Lip-Top.R.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Middle.L
+    m_Weight: 1
+  - m_Path: Armature/DEF-Middle.L/DEF-Middle.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Middle.L.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Middle.L.001/DEF-Middle.L.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Middle.L.002
+    m_Weight: 1
+  - m_Path: Armature/DEF-Middle.L.002/DEF-Middle.L.002_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Middle.R
+    m_Weight: 1
+  - m_Path: Armature/DEF-Middle.R/DEF-Middle.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Middle.R.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Middle.R.001/DEF-Middle.R.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Middle.R.002
+    m_Weight: 1
+  - m_Path: Armature/DEF-Middle.R.002/DEF-Middle.R.002_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Neck
+    m_Weight: 1
+  - m_Path: Armature/DEF-Neck/DEF-Neck_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Nose
+    m_Weight: 1
+  - m_Path: Armature/DEF-Nose/DEF-Nose_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Nose.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Nose.001/DEF-Nose.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Nostril
+    m_Weight: 1
+  - m_Path: Armature/DEF-Nostril/DEF-Nostril_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Nostril.L
+    m_Weight: 1
+  - m_Path: Armature/DEF-Nostril.L/DEF-Nostril.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Nostril.L.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Nostril.L.001/DEF-Nostril.L.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Nostril.R
+    m_Weight: 1
+  - m_Path: Armature/DEF-Nostril.R/DEF-Nostril.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Nostril.R.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Nostril.R.001/DEF-Nostril.R.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Palm-Index.L
+    m_Weight: 1
+  - m_Path: Armature/DEF-Palm-Index.L/DEF-Palm-Index.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Palm-Index.R
+    m_Weight: 1
+  - m_Path: Armature/DEF-Palm-Index.R/DEF-Palm-Index.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Palm-Middle.L
+    m_Weight: 1
+  - m_Path: Armature/DEF-Palm-Middle.L/DEF-Palm-Middle.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Palm-Middle.R
+    m_Weight: 1
+  - m_Path: Armature/DEF-Palm-Middle.R/DEF-Palm-Middle.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Palm-Pinky.L
+    m_Weight: 1
+  - m_Path: Armature/DEF-Palm-Pinky.L/DEF-Palm-Pinky.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Palm-Pinky.R
+    m_Weight: 1
+  - m_Path: Armature/DEF-Palm-Pinky.R/DEF-Palm-Pinky.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Palm-Ring.L
+    m_Weight: 1
+  - m_Path: Armature/DEF-Palm-Ring.L/DEF-Palm-Ring.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Palm-Ring.R
+    m_Weight: 1
+  - m_Path: Armature/DEF-Palm-Ring.R/DEF-Palm-Ring.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Pinky.L
+    m_Weight: 1
+  - m_Path: Armature/DEF-Pinky.L/DEF-Pinky.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Pinky.L.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Pinky.L.001/DEF-Pinky.L.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Pinky.L.002
+    m_Weight: 1
+  - m_Path: Armature/DEF-Pinky.L.002/DEF-Pinky.L.002_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Pinky.R
+    m_Weight: 1
+  - m_Path: Armature/DEF-Pinky.R/DEF-Pinky.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Pinky.R.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Pinky.R.001/DEF-Pinky.R.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Pinky.R.002
+    m_Weight: 1
+  - m_Path: Armature/DEF-Pinky.R.002/DEF-Pinky.R.002_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Ring.L
+    m_Weight: 1
+  - m_Path: Armature/DEF-Ring.L/DEF-Ring.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Ring.L.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Ring.L.001/DEF-Ring.L.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Ring.L.002
+    m_Weight: 1
+  - m_Path: Armature/DEF-Ring.L.002/DEF-Ring.L.002_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Ring.R
+    m_Weight: 1
+  - m_Path: Armature/DEF-Ring.R/DEF-Ring.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Ring.R.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Ring.R.001/DEF-Ring.R.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Ring.R.002
+    m_Weight: 1
+  - m_Path: Armature/DEF-Ring.R.002/DEF-Ring.R.002_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sheathe
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sheathe/DEF-Sheathe_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sheathe-Smear
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sheathe-Smear/DEF-Sheathe-Smear_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sheathe-Smear.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sheathe-Smear.001/DEF-Sheathe-Smear.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sheathe-Smear.002
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sheathe-Smear.002/DEF-Sheathe-Smear.002_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sheathe-Smear.003
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sheathe-Smear.003/DEF-Sheathe-Smear.003_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sheathe-Smear.004
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sheathe-Smear.004/DEF-Sheathe-Smear.004_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sheathe-Smear.005
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sheathe-Smear.005/DEF-Sheathe-Smear.005_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sheathe-Smear.006
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sheathe-Smear.006/DEF-Sheathe-Smear.006_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sheathe-Smear.007
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sheathe-Smear.007/DEF-Sheathe-Smear.007_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Shin.L
+    m_Weight: 0
+  - m_Path: Armature/DEF-Shin.L/DEF-Shin.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Shin.L.001
+    m_Weight: 0
+  - m_Path: Armature/DEF-Shin.L.001/DEF-Shin.L.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Shin.R
+    m_Weight: 0
+  - m_Path: Armature/DEF-Shin.R/DEF-Shin.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Shin.R.001
+    m_Weight: 0
+  - m_Path: Armature/DEF-Shin.R.001/DEF-Shin.R.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Shoulder.L
+    m_Weight: 1
+  - m_Path: Armature/DEF-Shoulder.L/DEF-Shoulder.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Shoulder.R
+    m_Weight: 1
+  - m_Path: Armature/DEF-Shoulder.R/DEF-Shoulder.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Spine
+    m_Weight: 1
+  - m_Path: Armature/DEF-Spine/DEF-Spine_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Spine.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Spine.001/DEF-Spine.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sword
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sword/DEF-Sword_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sword-Smear
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sword-Smear/DEF-Sword-Smear_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sword-Smear.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sword-Smear.001/DEF-Sword-Smear.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sword-Smear.002
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sword-Smear.002/DEF-Sword-Smear.002_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sword-Smear.003
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sword-Smear.003/DEF-Sword-Smear.003_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sword-Smear.004
+    m_Weight: 1
+  - m_Path: Armature/DEF-Sword-Smear.004/DEF-Sword-Smear.004_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Teeth.B
+    m_Weight: 1
+  - m_Path: Armature/DEF-Teeth.B/DEF-Teeth.B_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Teeth.T
+    m_Weight: 1
+  - m_Path: Armature/DEF-Teeth.T/DEF-Teeth.T_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Temple.L
+    m_Weight: 1
+  - m_Path: Armature/DEF-Temple.L/DEF-Temple.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Temple.R
+    m_Weight: 1
+  - m_Path: Armature/DEF-Temple.R/DEF-Temple.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Thigh.L
+    m_Weight: 0
+  - m_Path: Armature/DEF-Thigh.L/DEF-Thigh.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Thigh.L.001
+    m_Weight: 0
+  - m_Path: Armature/DEF-Thigh.L.001/DEF-Thigh.L.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Thigh.R
+    m_Weight: 0
+  - m_Path: Armature/DEF-Thigh.R/DEF-Thigh.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Thigh.R.001
+    m_Weight: 0
+  - m_Path: Armature/DEF-Thigh.R.001/DEF-Thigh.R.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Thumb.L
+    m_Weight: 1
+  - m_Path: Armature/DEF-Thumb.L/DEF-Thumb.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Thumb.L.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Thumb.L.001/DEF-Thumb.L.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Thumb.L.002
+    m_Weight: 1
+  - m_Path: Armature/DEF-Thumb.L.002/DEF-Thumb.L.002_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Thumb.R
+    m_Weight: 1
+  - m_Path: Armature/DEF-Thumb.R/DEF-Thumb.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Thumb.R.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Thumb.R.001/DEF-Thumb.R.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Thumb.R.002
+    m_Weight: 1
+  - m_Path: Armature/DEF-Thumb.R.002/DEF-Thumb.R.002_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Toe.L
+    m_Weight: 0
+  - m_Path: Armature/DEF-Toe.L/DEF-Toe.L_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Toe.R
+    m_Weight: 0
+  - m_Path: Armature/DEF-Toe.R/DEF-Toe.R_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Tongue
+    m_Weight: 1
+  - m_Path: Armature/DEF-Tongue/DEF-Tongue_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Tongue.001
+    m_Weight: 1
+  - m_Path: Armature/DEF-Tongue.001/DEF-Tongue.001_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Tongue.002
+    m_Weight: 1
+  - m_Path: Armature/DEF-Tongue.002/DEF-Tongue.002_end
+    m_Weight: 1
+  - m_Path: Armature/DEF-Tongue.003
+    m_Weight: 1
+  - m_Path: Armature/DEF-Tongue.003/DEF-Tongue.003_end
+    m_Weight: 1
+  - m_Path: YK_Body
+    m_Weight: 1
+  - m_Path: YK_katana
+    m_Weight: 1
